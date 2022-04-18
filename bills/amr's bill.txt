@@ -1,0 +1,6 @@
+Bill breakdown: 
+coffe:                    ...$4.5
+cake:                     ...$10
+juice:                    ...$6.55
+Tip:                      ...$5.00
+Total:                    ...$21.05
